@@ -11,6 +11,6 @@ Make it executable
 
 <pre>chmod +x nginx-autoinstall.sh</pre>
 
-And we run it!
+And run it!
 
 <pre>./nginx-autoinstall.sh</pre>
