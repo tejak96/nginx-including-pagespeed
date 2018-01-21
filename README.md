@@ -5,12 +5,12 @@ Automation script allows you to install Nginx with several modules, including Pa
 
 Download script
 
-wget --no-check-certificate https://raw.githubusercontent.com/Qoraiche/nginx-including-pagespeed/master/nginx-autoinstall.sh -O nginx-autoinstall.sh
+<pre>wget --no-check-certificate https://raw.githubusercontent.com/Qoraiche/nginx-including-pagespeed/master/nginx-autoinstall.sh -O nginx-autoinstall.sh</pre>
 
 Make it executable
 
-chmod +x nginx-autoinstall.sh
+<pre>chmod +x nginx-autoinstall.sh</pre>
 
 And we run it!
 
-./nginx-autoinstall.sh
+<pre>./nginx-autoinstall.sh</pre>
