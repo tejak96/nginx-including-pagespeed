@@ -1,7 +1,7 @@
 # nginx-including-pagespeed
 Automation script allows you to install Nginx with several modules, including PageSpeed module.
 
-# Install
+# Usage
 
 Download script
 
